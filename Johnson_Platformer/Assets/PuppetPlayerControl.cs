@@ -39,8 +39,7 @@ public class PuppetPlayerControl : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //GetComponent<SpriteRenderer>().flipX = !isFacingRight;
-        if(!isFacingRight){
+        if(isFacingRight){
             characterVisuals.transform.localScale = flippedScale;
         }else{
             characterVisuals.transform.localScale = Vector3.one;
@@ -77,6 +76,7 @@ public class PuppetPlayerControl : MonoBehaviour
         }else if (inputVector.x < 0){
             isFacingRight = false;
         }
+       GetComponent<Animator>().SetBool("isFacingRight", isFacingRight);
     }
 
     public void OnJump(InputValue value){

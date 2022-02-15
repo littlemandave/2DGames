@@ -119,7 +119,7 @@ MonoBehaviour:
   maxMoveSpeed: 6
   jumpForce: 2
   projectile: {fileID: 3610187978005733686, guid: 7b3e31daa4d2ec04db5b502b565b1e69, type: 3}
-  characterVisuals: {fileID: -8653719598885068355, guid: c4e0c50fee1fc4fac8273c34a528d2de, type: 3}
+  characterVisuals: {fileID: 4211246850917933264}
 --- !u!1001 &4437898778890764653
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -228,5 +228,10 @@ PrefabInstance:
 --- !u!4 &3078565926572488883 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -7552582706839291426, guid: c4e0c50fee1fc4fac8273c34a528d2de, type: 3}
+  m_PrefabInstance: {fileID: 4437898778890764653}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &4211246850917933264 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -8653719598885068355, guid: c4e0c50fee1fc4fac8273c34a528d2de, type: 3}
   m_PrefabInstance: {fileID: 4437898778890764653}
   m_PrefabAsset: {fileID: 0}
