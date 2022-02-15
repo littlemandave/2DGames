@@ -12,7 +12,7 @@ public class PuppetPlayerControl : MonoBehaviour
     public float moveForce = 25;
     public float maxMoveSpeed = 6.0f;
     public float jumpForce = 2.0f;
-    bool isFacingRight = true;
+    bool isFacingRight = false;
     Rigidbody2D rb;
     Vector2 inputVector;
     Vector3 movementVector;
