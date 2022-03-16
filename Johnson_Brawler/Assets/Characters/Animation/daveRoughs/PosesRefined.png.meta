@@ -1,0 +1,892 @@
+fileFormatVersion: 2
+guid: f278327137bab4d2ca52bf66a15c640e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PosesRefined_0
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 2758
+        width: 232
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e5b4859f1d92400ab4647e098455d33
+      internalID: 53702585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_1
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2747
+        width: 267
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b85f278e0cb340cbb9ee0d0e02ac92e
+      internalID: -1453991450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_2
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 2748
+        width: 272
+        height: 414
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc177f639db04cabad206fd55fc195c
+      internalID: 1040592158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_3
+      rect:
+        serializedVersion: 2
+        x: 2008
+        y: 2752
+        width: 238
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68b89791cec414f78bc5367dcd607d59
+      internalID: 1835162566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_4
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 2191
+        width: 351
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adecf5e6912c243129d0cfb1576f516a
+      internalID: -342880500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_5
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2191
+        width: 336
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290225b0ab2aa462a8f0d8885341662e
+      internalID: -263281305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_6
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 2229
+        width: 320
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86f92075bf2a2495887b3180cdc7f0e3
+      internalID: -560850737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_7
+      rect:
+        serializedVersion: 2
+        x: 1907
+        y: 2231
+        width: 341
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc04706ca1c6a48c9a95facf9826ea5a
+      internalID: 710131698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_8
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 2189
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6292bfc40e8b144299112e8696dc4484
+      internalID: -1396504438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_9
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 1654
+        width: 366
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42c8175882d634bfe86bdf80cb542b7f
+      internalID: 10092006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_10
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 1640
+        width: 346
+        height: 415
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd2aa1b882df4703a77e14de9276401
+      internalID: -357669381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_11
+      rect:
+        serializedVersion: 2
+        x: 1399
+        y: 1713
+        width: 325
+        height: 373
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd83850b3ba464d85a38b7e7c01ece0e
+      internalID: 775788105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_12
+      rect:
+        serializedVersion: 2
+        x: 1905
+        y: 1717
+        width: 330
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0647097c2730e4c7b8d8484bd6d8833c
+      internalID: 2034111872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1069
+        width: 232
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d4ad741c4f2444a97c796a34ac2320
+      internalID: 1670493986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_14
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1341
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bbaedbc154294cccb6f12d9c059a8e5
+      internalID: -466098863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_15
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1087
+        width: 258
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc81aa783da664cd6bc94ec0f8614d27
+      internalID: 905809249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_16
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 1081
+        width: 245
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd78e99b8329e4f3f8504424e77e6011
+      internalID: 703784177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_17
+      rect:
+        serializedVersion: 2
+        x: 1672
+        y: 1225
+        width: 176
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6f85fe2e967473fb98f8ab3294e564
+      internalID: 1211880104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_18
+      rect:
+        serializedVersion: 2
+        x: 1950
+        y: 1229
+        width: 256
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfdf07b6f7015471c8c6af953115f069
+      internalID: -379541527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_19
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 1223
+        width: 142
+        height: 395
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72288aadcd254e268fa205d29b9f2b4
+      internalID: 520245326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_20
+      rect:
+        serializedVersion: 2
+        x: 1949
+        y: 1313
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12168ac1326e34380931ef90f89e95c0
+      internalID: -915815583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_21
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1076
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e40b471f8894bc1810713efe0abdd1
+      internalID: -1935638463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_22
+      rect:
+        serializedVersion: 2
+        x: 1750
+        y: 686
+        width: 251
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb85af4bc6694ef89aaebb8a717fa1c
+      internalID: -1394778797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_23
+      rect:
+        serializedVersion: 2
+        x: 2195
+        y: 682
+        width: 266
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd325f13933ca474d8a02d0dc502cc93
+      internalID: 624090203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_24
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 653
+        width: 223
+        height: 366
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 645fb9daa13d141de9649b8fe79825d5
+      internalID: -839063508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_25
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 657
+        width: 235
+        height: 398
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9119622bfbcac426e81a2656846dcaf3
+      internalID: 20375236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_26
+      rect:
+        serializedVersion: 2
+        x: 1304
+        y: 645
+        width: 245
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a965a4369b024af3978fcbf5d550810
+      internalID: -1743729866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_27
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 367
+        width: 431
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8023c8698ee467390b4afbba277a80
+      internalID: 2060678832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_28
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 431
+        width: 399
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da61093d49d7462d9620403e9f6d4bd
+      internalID: -273416452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_29
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 462
+        width: 405
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55504687cf4cb446c8d4a43c9978bc5d
+      internalID: 1457116312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_30
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 458
+        width: 441
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc22c9f2041d478382f15a131d12abf
+      internalID: -732093768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 94
+        width: 425
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0377e940e0c5c44219f0d744f5f4b18f
+      internalID: 1095468372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_32
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 147
+        width: 425
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98dd9edb80837452c889daf90147ab4c
+      internalID: 1786122689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_33
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 146
+        width: 421
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0dbf6db6f3349c8bf7c8beb3cadb8d
+      internalID: -1041637270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PosesRefined_34
+      rect:
+        serializedVersion: 2
+        x: 1570
+        y: 141
+        width: 446
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44f9fbed40514937bcf7f0f03f7e76d
+      internalID: -1317222830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: e82dce21ff72649a489122311f77e6e4
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PosesRefined_26: -1743729866
+      PosesRefined_28: -273416452
+      PosesRefined_4: -342880500
+      PosesRefined_20: -915815583
+      PosesRefined_19: 520245326
+      PosesRefined_12: 2034111872
+      PosesRefined_17: 1211880104
+      PosesRefined_10: -357669381
+      PosesRefined_29: 1457116312
+      PosesRefined_16: 703784177
+      PosesRefined_7: 710131698
+      PosesRefined_9: 10092006
+      PosesRefined_1: -1453991450
+      PosesRefined_13: 1670493986
+      PosesRefined_21: -1935638463
+      PosesRefined_14: -466098863
+      PosesRefined_22: -1394778797
+      PosesRefined_25: 20375236
+      PosesRefined_23: 624090203
+      PosesRefined_24: -839063508
+      PosesRefined_18: -379541527
+      PosesRefined_27: 2060678832
+      PosesRefined_6: -560850737
+      PosesRefined_2: 1040592158
+      PosesRefined_33: -1041637270
+      PosesRefined_8: -1396504438
+      PosesRefined_15: 905809249
+      PosesRefined_31: 1095468372
+      PosesRefined_5: -263281305
+      PosesRefined_32: 1786122689
+      PosesRefined_11: 775788105
+      PosesRefined_30: -732093768
+      PosesRefined_0: 53702585
+      PosesRefined_3: 1835162566
+      PosesRefined_34: -1317222830
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
