@@ -272,7 +272,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_8
+      name: Kick01-1
       rect:
         serializedVersion: 2
         x: 0
@@ -293,7 +293,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_9
+      name: Kick01-2
       rect:
         serializedVersion: 2
         x: 768
@@ -314,7 +314,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_10
+      name: Kick02-1
       rect:
         serializedVersion: 2
         x: 1536
@@ -335,7 +335,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_11
+      name: Kick02-2
       rect:
         serializedVersion: 2
         x: 2304
@@ -356,7 +356,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_12
+      name: Walk01
       rect:
         serializedVersion: 2
         x: 0
@@ -377,7 +377,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_13
+      name: Walk02
       rect:
         serializedVersion: 2
         x: 768
@@ -398,7 +398,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_14
+      name: Walk03
       rect:
         serializedVersion: 2
         x: 1536
@@ -419,7 +419,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_15
+      name: Walk04
       rect:
         serializedVersion: 2
         x: 2304
@@ -440,7 +440,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_16
+      name: KOL01-1
       rect:
         serializedVersion: 2
         x: 0
@@ -461,7 +461,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_17
+      name: KOL01-2
       rect:
         serializedVersion: 2
         x: 768
@@ -482,7 +482,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_18
+      name: KOL02-1
       rect:
         serializedVersion: 2
         x: 1536
@@ -503,7 +503,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_19
+      name: KOL02-2
       rect:
         serializedVersion: 2
         x: 2304
@@ -524,7 +524,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_20
+      name: KOR01-1
       rect:
         serializedVersion: 2
         x: 0
@@ -545,7 +545,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_21
+      name: KOR01-2
       rect:
         serializedVersion: 2
         x: 768
@@ -566,7 +566,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_22
+      name: KOR02-1
       rect:
         serializedVersion: 2
         x: 1536
@@ -587,7 +587,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_23
+      name: KOR02-2
       rect:
         serializedVersion: 2
         x: 2304
@@ -608,7 +608,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_24
+      name: Stun01-1
       rect:
         serializedVersion: 2
         x: 0
@@ -629,7 +629,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_25
+      name: Stun01-2
       rect:
         serializedVersion: 2
         x: 768
@@ -650,7 +650,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_26
+      name: Stun02-1
       rect:
         serializedVersion: 2
         x: 1536
@@ -671,7 +671,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_27
+      name: Stun02-2
       rect:
         serializedVersion: 2
         x: 2304
@@ -692,7 +692,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_28
+      name: Stun03-1
       rect:
         serializedVersion: 2
         x: 0
@@ -713,7 +713,7 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: PosesGriddedLayered_29
+      name: Stun03-2
       rect:
         serializedVersion: 2
         x: 768
@@ -744,36 +744,36 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PosesGriddedLayered_27: 1228963869
-      PosesGriddedLayered_11: 52286549
-      PosesGriddedLayered_10: -1233751338
-      PosesGriddedLayered_18: 223054742
+      KOR02-2: 272018109
+      Stun02-1: -1761331974
+      Walk02: -768180639
+      Walk01: 1250267654
+      Idle04: -1946390723
       Idle01: 854852058
       Punch02-2: -527186022
-      PosesGriddedLayered_28: 1267628349
-      PosesGriddedLayered_14: 264743809
-      PosesGriddedLayered_19: -846291694
-      PosesGriddedLayered_23: 272018109
-      PosesGriddedLayered_20: -1581091426
-      PosesGriddedLayered_21: -318541964
-      PosesGriddedLayered_29: 216013457
-      PosesGriddedLayered_16: 512138594
-      PosesGriddedLayered_24: -652196388
+      KOR01-2: -318541964
+      Stun01-1: -652196388
+      Stun01-2: -1075901771
+      KOL02-1: 223054742
+      Kick02-1: -1233751338
       Punch01-2: -100117880
-      PosesGriddedLayered_8: 1278440846
-      PosesGriddedLayered_26: -1761331974
+      Kick01-1: 1278440846
+      Walk04: 1132830225
+      Stun03-2: 216013457
+      Kick02-2: 52286549
+      Stun02-2: 1228963869
+      Kick01-2: 1953648360
+      KOR01-1: -1581091426
       Punch02-1: 316859089
-      PosesGriddedLayered_22: 49544434
-      PosesGriddedLayered_13: -768180639
-      PosesGriddedLayered_17: 1555560519
-      PosesGriddedLayered_25: -1075901771
-      PosesGriddedLayered_12: 1250267654
-      Idle02: 1751207144
-      PosesGriddedLayered_15: 1132830225
+      KOR02-1: 49544434
       Idle03: -1170668034
-      Idle04: -1946390723
-      PosesGriddedLayered_9: 1953648360
+      KOL01-1: 512138594
+      Idle02: 1751207144
       Punch01-1: 1576525773
+      KOL01-2: 1555560519
+      KOL02-2: -846291694
+      Stun03-1: 1267628349
+      Walk03: 264743809
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

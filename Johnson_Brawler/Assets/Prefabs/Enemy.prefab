@@ -1,18 +1,5 @@
 %YAML 1.1
 %TAG !u! tag:unity3d.com,2011:
---- !u!114 &-2875851837900566991
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 9217792697912398021}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 93ef00e0cf05e3b4f9e7876767f80f9a, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  punchDelay: 0.5
 --- !u!1001 &8344609400566538059
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -101,16 +88,20 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 21300000, guid: ae13abe140620a144806d962e40c5a0b, type: 3}
     - target: {fileID: 1719812813040058956, guid: 406bceff6e4901647b3df533bc45aa17, type: 3}
+      propertyPath: m_Color.a
+      value: 0.48235294
+      objectReference: {fileID: 0}
+    - target: {fileID: 1719812813040058956, guid: 406bceff6e4901647b3df533bc45aa17, type: 3}
       propertyPath: m_Color.b
-      value: 1
+      value: 0.5283019
       objectReference: {fileID: 0}
     - target: {fileID: 1719812813040058956, guid: 406bceff6e4901647b3df533bc45aa17, type: 3}
       propertyPath: m_Color.g
-      value: 0
+      value: 0.5283019
       objectReference: {fileID: 0}
     - target: {fileID: 1719812813040058956, guid: 406bceff6e4901647b3df533bc45aa17, type: 3}
       propertyPath: m_Color.r
-      value: 0.7906766
+      value: 0.5283019
       objectReference: {fileID: 0}
     - target: {fileID: 4234208012312066981, guid: 406bceff6e4901647b3df533bc45aa17, type: 3}
       propertyPath: m_Enabled
@@ -147,3 +138,16 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 874313603961147278, guid: 406bceff6e4901647b3df533bc45aa17, type: 3}
   m_PrefabInstance: {fileID: 8344609400566538059}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &-2875851837900566991
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 9217792697912398021}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 93ef00e0cf05e3b4f9e7876767f80f9a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  punchDelay: 0.5
