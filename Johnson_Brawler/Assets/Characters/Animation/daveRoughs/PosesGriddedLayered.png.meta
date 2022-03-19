@@ -733,6 +733,48 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
+    - serializedVersion: 2
+      name: Punch-Extend
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 768
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2513ad2aae2ba48d9b45258deb2dec90
+      internalID: -1500030949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Kick-Extend
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 0
+        width: 768
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd31289a21c94d2b8a6d57c678b24ff
+      internalID: 1075924603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -746,12 +788,14 @@ TextureImporter:
     nameFileIdTable:
       KOR02-2: 272018109
       Stun02-1: -1761331974
+      Punch-Extend: -1500030949
       Walk02: -768180639
       Walk01: 1250267654
       Idle04: -1946390723
       Idle01: 854852058
       Punch02-2: -527186022
       KOR01-2: -318541964
+      Kick-Extend: 1075924603
       Stun01-1: -652196388
       Stun01-2: -1075901771
       KOL02-1: 223054742
@@ -772,8 +816,8 @@ TextureImporter:
       Punch01-1: 1576525773
       KOL01-2: 1555560519
       KOL02-2: -846291694
-      Stun03-1: 1267628349
       Walk03: 264743809
+      Stun03-1: 1267628349
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
