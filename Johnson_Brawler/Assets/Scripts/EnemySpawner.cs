@@ -11,7 +11,7 @@ public class EnemySpawner : MonoBehaviour
     }
 
     void Start(){
-        GetComponent<Animator>().Play("openDoor");
+        GetComponent<Animator>().Play("SharpenerSpawn");
     }
 
 }
