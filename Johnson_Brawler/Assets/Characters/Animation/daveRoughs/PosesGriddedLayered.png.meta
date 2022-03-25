@@ -363,8 +363,8 @@ TextureImporter:
         y: 3072
         width: 768
         height: 768
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.5205286, y: 0.5615857}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -426,8 +426,8 @@ TextureImporter:
         y: 3072
         width: 768
         height: 768
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 9
+      pivot: {x: 0.57184917, y: 0.49999967}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -790,7 +790,7 @@ TextureImporter:
       Stun02-1: -1761331974
       Punch-Extend: -1500030949
       Walk02: -768180639
-      Walk01: 1250267654
+      Walk03: 264743809
       Idle04: -1946390723
       Idle01: 854852058
       Punch02-2: -527186022
@@ -811,12 +811,12 @@ TextureImporter:
       Punch02-1: 316859089
       KOR02-1: 49544434
       Idle03: -1170668034
-      KOL01-1: 512138594
       Idle02: 1751207144
+      Walk01: 1250267654
       Punch01-1: 1576525773
       KOL01-2: 1555560519
       KOL02-2: -846291694
-      Walk03: 264743809
+      KOL01-1: 512138594
       Stun03-1: 1267628349
   spritePackingTag: 
   pSDRemoveMatte: 0
